@@ -1,0 +1,29 @@
+=== DETAILED METRICS COMPARISON ===
+
+--- RBC ---
+Peak Load (RBC): 3000.0000
+Variance (RBC): 858396.9611
+Total Energy (RBC): 19285.3487
+Finish Time (RBC): 618.0000
+
+--- PPO ---
+Peak Load (PPO): 2797.3979
+Peak Reduction (PPO) (%): 6.7534
+Variance (PPO): 549215.2991
+Total Energy (PPO): 19024.4231
+Finish Time (PPO): 655.0000
+
+--- SAC ---
+Peak Load (SAC): 2920.0000
+Peak Reduction (SAC) (%): 2.6667
+Variance (SAC): 762103.9196
+Total Energy (SAC): 19178.0241
+Finish Time (SAC): 636.0000
+
+--- MODRL ---
+Peak Load (MODRL): 2980.1997
+Peak Reduction (MODRL) (%): 0.6600
+Variance (MODRL): 1180351.0236
+Total Energy (MODRL): 18716.0875
+Finish Time (MODRL): 1000.0000
+
